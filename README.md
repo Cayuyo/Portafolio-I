@@ -10,7 +10,7 @@ Repositorio publico para el bootcamp de Coding Dojo C#/.NET.
 
 <p>Configura tres rutas básicas para una página de portafolio utilizando la arquitectura MVC. Por ahora, las rutas deben devolver valores de cadena. Volveremos a este proyecto después de aprender a renderizar páginas HTML reales.​​​​<p>
 
-<img src="[https://assets.codingdojo.com/boomyeah2015/codingdojo/curriculum/content/chapter/1663012849__PortfolioI.png" alt="Wireframe">
+<img src="https://assets.codingdojo.com/boomyeah2015/codingdojo/curriculum/content/chapter/1663012849__PortfolioI.png" alt="Wireframe">
 
 <ul>
     <li>Construir una ruta de Index (frontal)</li>
